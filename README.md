@@ -18,12 +18,12 @@ Every time you run the script, a function will be called to create a random mess
 
 ## Make sure that it satisfies all of the project objectives. 
 
-<input type="checkbox"> Completely random
+[ ] Completely random
 
-<input type="checkbox"> Everytime new, that is, it won't have a pattern of repetition between the parts
+[ ] Everytime new, that is, it won't have a pattern of repetition between the parts
 
-<input type="checkbox" checked> At least three random pieces of data
+[x] At least three random pieces of data
 
 Other objectives/requisites added as we plan:
 
-<input type="checkbox" checked> **Remember**: third person ('s' ending) for verbs.
+[x] **Remember**: third person ('s' ending) for verbs.
